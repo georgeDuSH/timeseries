@@ -1,2 +1,3 @@
-# timeseries
-simple attention implementation for time series with torch
+Python implementation of attention for time series.
+
+See implementation in notebook `attention_ts.ipynb`
